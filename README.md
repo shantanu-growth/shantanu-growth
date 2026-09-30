@@ -68,10 +68,6 @@ I run **Meta & Google Ads, SEO, content, and AI automation as one connected syst
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanu-growth&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-</p>
-
-<p align="center">
   <i>Let's find where your revenue is leaking — in 20 minutes.</i><br>
   <a href="https://calendar.app.google/n8JqrKmCqoxHPPYS9">📅 Book a free strategy call</a>
 </p>
